@@ -1,2 +1,0 @@
-# eiji
-Projeto Dojo
